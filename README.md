@@ -1,4 +1,4 @@
-# Add WPF TreeView items by databinding in XML
+# Add WPF TreeView Items by Databinding in XML
 
 This session describes about how to add [WPF TreeView](https://help.syncfusion.com/wpf/classic/treeview/overview) (TreeViewAdv) items by databinding in XML.
 
@@ -52,4 +52,4 @@ XML file can also be used as ItemsSource for the TreeViewAdv. The following exam
 
 4. `TreeViewAdv` will be created as follows:
 
-![TreeViewAdv](TreeViewAdv_DataBinding_XML.png)
+![Databinding TreeViewAdv using XML](TreeViewAdvBindingWithXML.png)
